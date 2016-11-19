@@ -26,8 +26,11 @@ Keys to remember
 
 # tmux
 
-* Ctrl-B 0, 1 etc
-* Ctrl-B Up, Down, etc
+* Ctrl-B 0, 1 - pick a window
+* Ctrl-B Up, Down, Left, Right - pick a pane within window
+* Ctrl-B c - new window
+* Ctrl-B " - split
+* Ctrl-B ? - list of commands!
 
 # fireplace
 
