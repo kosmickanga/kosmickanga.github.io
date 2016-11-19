@@ -23,13 +23,16 @@ Fireplace has a Piggieback command which uses Rhino. I have no idea what any of 
 
 Keys to remember
 ----------------
-tmux
+
+# tmux
+
 * Ctrl-B 0, 1 etc
 * Ctrl-B Up, Down, etc
 
-fireplace
+# fireplace
+
 * K - lookup docs for thing under cursor
-* [d, ]d - source for thing under cursor
+* [d or ]d - source for thing under cursor
 * same with Ctrl-D - jump to source under cursor
 * gf - go to file of thing under cursor
 * :Require ns, :Require! ns - load, reload/all for namespace
