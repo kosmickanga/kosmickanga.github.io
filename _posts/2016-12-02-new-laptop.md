@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reinstalling everything"
-date: 2016-11-20
+date: 2016-12-02
 ---
 Things to do on a Windows laptop
 -----------------------
